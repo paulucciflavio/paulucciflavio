@@ -1,5 +1,4 @@
-# Flávio Paulucci da Silva
-## Estudante de Ciência da Computação
+![ezgif com-gif-maker](https://github.com/paulucciflavio/paulucciflavio/assets/134242625/92f1df94-1aff-4066-bf3d-82db2f725a22)
 
 ### Languages
 
