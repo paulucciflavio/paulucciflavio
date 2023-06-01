@@ -24,3 +24,4 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_br&phone=5524988819074)
 #
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/paulucciflavio/FPS1/blob/main/LICENSE) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paulucciflavio)
