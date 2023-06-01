@@ -22,3 +22,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-paulucci-041060268/)
 [![Instagram](https://img.shields.io/badge/@paulucciflavio-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/paulucciflavio)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_br&phone=5524988819074)
+#
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/paulucciflavio/FPS1/blob/main/LICENSE) 
