@@ -26,4 +26,3 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/paulucciflavio/FPS1/blob/main/LICENSE) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paulucciflavio)
 
-![snake gif](https://github.com/paulucciflavio/paulucciflavio/blob/output/github-contribution-grid-snake.svg)
