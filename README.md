@@ -1,4 +1,11 @@
 ![ezgif com-gif-maker](https://github.com/paulucciflavio/paulucciflavio/assets/134242625/92f1df94-1aff-4066-bf3d-82db2f725a22)
+#
+👩‍💻 Trabalho atualmente : Em busca da minha primeira oportunidade na área tech!
+
+🧠 Estou aprendendo: Web scrapy utilizando linguagem python, pycharm. Tudo relacionado à engenharia / ciência de dados. Graduação em Ciência da computação.
+
+👯‍♀️ Procuro colaborar em: Projetos de desenvolvimento de softwares, voluntário ou não.
+
 
 ### Languages
 
