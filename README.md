@@ -1,5 +1,7 @@
 ![ezgif com-gif-maker](https://github.com/paulucciflavio/paulucciflavio/assets/134242625/92f1df94-1aff-4066-bf3d-82db2f725a22)
-#
+# Sobre mim:
+Entusiasta da área tech, estudante de ciências da computação e fã de Star Wars.
+
 👩‍💻 Trabalho atualmente : Em busca da minha primeira oportunidade na área tech!
 
 🧠 Estou aprendendo: Web scrapy utilizando linguagem python, pycharm. Tudo relacionado à engenharia / ciência de dados. Graduação em Ciência da computação.
