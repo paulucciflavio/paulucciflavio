@@ -1,12 +1,19 @@
 ![ezgif com-gif-maker](https://github.com/paulucciflavio/paulucciflavio/assets/134242625/92f1df94-1aff-4066-bf3d-82db2f725a22)
 ## Sobre mim:
-Entusiasta da área tech, estudante de ciências da computação e fã de Star Wars.
+Olá! Sou um entusiasta de Engenharia de Dados e Ciência de Dados, em transição para essa área e apaixonado por transformar dados em conhecimento. Atualmente, estou focado em aprender Python, SQL, Banco de Dados e Computação em Nuvem, com o objetivo de construir pipelines de dados eficientes e escaláveis.
 
-👩‍💻 Trabalho atualmente : Em busca da minha primeira oportunidade na área tech!
+🔹 O que estou estudando?
+📌 Python & SQL para manipulação e análise de dados
+📌 Bancos de Dados (SQL e NoSQL) como PostgreSQL e MongoDB
+📌 Engenharia de Dados com ETL, Apache Airflow e Spark
+📌 Cloud Computing com AWS e Google Cloud
 
-🧠 Estou aprendendo: Web scrapy utilizando linguagem python, pycharm. Tudo relacionado à engenharia / ciência de dados. Graduação em Ciência da computação.
+🔹 Meu objetivo?
+Aprimorar minhas habilidades práticas por meio de projetos e colaborar com profissionais da área para me tornar um Engenheiro de Dados de alto nível.
 
-👯‍♀️ Procuro colaborar em: Projetos de desenvolvimento de softwares, voluntário ou não.
+📂 Confira meus projetos e me acompanhe nessa jornada! Vamos conectar? 🚀
+
+📩 Contato: [paulucciflavio93@gmail.com]
 
 
 ### Languages
