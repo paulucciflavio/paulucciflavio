@@ -10,7 +10,7 @@ Fala comigo!  Tudo bem?
 📌 Cloud Computing com AWS e Google Cloud
 
 🔹 Meu objetivo?
-Aprimorar minhas habilidades práticas por meio de projetos e colaborar com profissionais da área para me tornar um Engenheiro de Dados de alto nível.
+Aprimorar minhas habilidades práticas por meio de projetos e colaborar com profissionais da área para me tornar um Engenheiro de Dados.
 
 📂 Confira meus projetos e me acompanhe nessa jornada! Vamos conectar? 🚀
 
