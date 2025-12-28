@@ -5,7 +5,7 @@ Fala comigo!  Tudo bem?
 
 🔹 O que estou estudando?
 📌 Python & SQL para manipulação e análise de dados
-📌 Bancos de Dados (SQL e NoSQL) como PostgreSQL e MongoDB
+📌 Bancos de Dados (SQL e NoSQL) como PostgreSQL
 📌 Engenharia de Dados com ETL, Apache Airflow e Spark
 📌 Cloud Computing com AWS e Google Cloud
 
